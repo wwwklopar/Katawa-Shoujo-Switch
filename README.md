@@ -6,5 +6,5 @@ Authors of the game - Four Leaf Studios. You may take game on their website http
 Author of the engine port - uyjulian https://github.com/uyjulian/renpy-switch
 
 
-If you using archive with "onli files" then for proper working full library from repository below needed.
+If you using archive with "only files" then for proper working full library from repository below needed.
 https://github.com/uyjulian/renpy-switch/releases
